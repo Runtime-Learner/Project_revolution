@@ -1,2 +1,2 @@
 # Project_revolution
-Freshmen year game
+Freshman year game
